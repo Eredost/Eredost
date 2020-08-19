@@ -1,5 +1,6 @@
 ## Hi there, I'm Michaël 👋
 
+
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 	<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
@@ -17,9 +18,13 @@
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>
 
+<br/>
+
 I'm a **french developer**, passionate about the world of **web development**, I like to solve problems and implement solutions.
 
-I mainly work with the **Php** language, but I keep exploring new tools and technologies.
+I mainly work with the **Php** and **Javascript** languages, but I keep exploring new tools and technologies.
+
+<br/>
 
 <p align="center">
 <a href="https://linkedin.com/in/michael-coutin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michael-coutin" height="30" width="30" /></a>
