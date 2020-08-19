@@ -27,5 +27,5 @@ I mainly work with the **Php** language, but I keep exploring new tools and tech
 
 ---
 
-|![Github stats](https://github-readme-stats.vercel.app/api?username=eredost&show_icons=true&count_private=true)|![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eredost&layout=compact&hide=html)|
+|![Github stats](https://github-readme-stats.vercel.app/api?username=eredost&show_icons=true&count_private=true)|![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eredost&hide=html)|
 |-|-|
