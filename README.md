@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eredost" alt="eredost" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eredost&theme=onedark" alt="eredost" /></a> </p>
 
 ## Hi there, I'm Michaël 👋
 
@@ -61,8 +61,5 @@ I mainly work with the **Php** and **Javascript** languages, but I keep explorin
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eredost&show_icons=true&locale=en&layout=compact" alt="eredost" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eredost&show_icons=true&locale=en" alt="eredost" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eredost&" alt="eredost" /></p>
+|![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=eredost&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark)|![Top languages](https://github-readme-stats.vercel.app/api?username=eredost&show_icons=true&locale=en&theme=onedark)|
+|-|-|
